@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Template from "./components/Template.wc.svelte";
+  import VDemo from "./components/VDemo.wc.svelte"
 </script>
 
-<Template name={"Rabie"} />
+<VDemo />

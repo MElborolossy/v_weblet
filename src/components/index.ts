@@ -1,1 +1,1 @@
-import "./Template.wc.svelte";
+import "./VDemo.wc.svelte";
